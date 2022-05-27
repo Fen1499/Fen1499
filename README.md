@@ -4,6 +4,7 @@ TODO: Write something about me
 ### You can reach me at
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-agricola-164665159)
 [![Dev](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/fen1499)
+[![Anilist](https://img.shields.io/static/v1?style=for-the-badge&message=AniList&color=02A9FF&logo=AniList&logoColor=FFFFFF&label=)](https://anilist.co/user/xFen/)
 
 
 ### Stats
